@@ -57,6 +57,8 @@
                                     <label class="drinkcard-cc header1" for="header1"></label>
                                     <input id="header2" type="radio" name="header-royal" value="header2" <?php echo (osc_esc_html( osc_get_preference('header-royal', 'royal') )=="header2" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc header2" for="header2"></label>
+                                    <input id="header3" type="radio" name="header-royal" value="header3" <?php echo (osc_esc_html( osc_get_preference('header-royal', 'royal') )=="header3" )? "checked": ""; ?>/>
+                                    <label class="drinkcard-cc header3" for="header3"></label>
                                 </div>
                             </div>
                         </div>
@@ -100,6 +102,8 @@
                                     <label class="drinkcard-cc single2" for="single2"></label>
                                     <input id="single3" type="radio" name="single-royal" value="single3" <?php echo (osc_esc_html( osc_get_preference('single-royal', 'royal') )=="single3" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc single3" for="single3"></label>
+                                    <input id="single4" type="radio" name="single-royal" value="single4" <?php echo (osc_esc_html( osc_get_preference('single-royal', 'royal') )=="single4" )? "checked": ""; ?>/>
+                                    <label class="drinkcard-cc single4" for="single4"></label>
                                 </div>
                             </div>
                         </div>
