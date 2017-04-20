@@ -9,7 +9,7 @@ Author URI: http://www.osclass.org/
 Short Name: payments
 */
 
-    define('PAYMENT_CRYPT_KEY', 'randompasswordchangethis');
+    define('PAYMENT_CRYPT_KEY', ':6DgeNng6YU+8TXP');
     // PAYMENT STATUS
     define('PAYMENT_FAILED', 0);
     define('PAYMENT_COMPLETED', 1);
