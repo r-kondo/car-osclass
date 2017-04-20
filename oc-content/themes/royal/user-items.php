@@ -65,7 +65,10 @@
                                             </p>
                                             <p class="btn-details"> <i class="fa fa-power-off"></i>
                                                 <a class="delete" onclick="javascript:return confirm('<?php echo osc_esc_js(__('This action can not be undone. Are you sure you want to continue?', 'royal')); ?>')" href="<?php echo osc_item_delete_url();?>">
-                                                    <?php _e("Delete", 'royal'); ?></a> 
+                                                    <?php _e("Delete", 'royal'); ?></a>
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-recycle"></i>
                                                 <?php if(osc_item_is_enabled() && osc_item_is_active()) { ?>
     <a href="<?php echo osc_route_url('route-user-item-deactivate', array('itemId' => osc_item_id())); ?>"><?php _e('Deactivate', 'theme'); ?></a>
 <?php } elseif(osc_item_is_enabled() && osc_item_is_inactive()) { ?>
