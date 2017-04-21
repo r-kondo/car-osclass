@@ -73,7 +73,8 @@
                                     <label class="drinkcard-cc home2" for="home2"></label>
                                     <input id="home3" type="radio" name="home-royal" value="home3" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home3" )? "checked": ""; ?>/>
                                     <label class="drinkcard-cc home3" for="home3"></label>
-                                    
+                                    <input id="home4" type="radio" name="home-royal" value="home4" <?php echo (osc_esc_html( osc_get_preference('home-royal', 'royal') )=="home4" )? "checked": ""; ?>/>
+                                    <label class="drinkcard-cc home3" for="home4"></label>                                    
                                 </div>
                             </div>
                         </div>
