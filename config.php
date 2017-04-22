@@ -6,22 +6,22 @@
 define('MULTISITE', 0);
 
 /** MySQL database name for Osclass */
-define('DB_NAME', 'marketengin_osdb');
+define('DB_NAME', 'oc_db');
 
 /** MySQL database username */
-define('DB_USER', 'marketengin_oscl');
+define('DB_USER', 'oc_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'je42nlo0');
+define('DB_PASSWORD', 'ooguchi6704');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql1110.xserver.jp');
+define('DB_HOST', 'localhost');
 
 /** Database Table prefix */
 define('DB_TABLE_PREFIX', 'oc_');
 
-define('REL_WEB_URL', '/dev_financial-cars/');
+define('REL_WEB_URL', '/financial-cars.net/');
 
-define('WEB_PATH', 'http://market-engin.xsrv.jp/dev_financial-cars/');
+define('WEB_PATH', 'http://financial-cars.net/');
 
 ?>
