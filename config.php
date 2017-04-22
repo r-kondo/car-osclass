@@ -20,7 +20,7 @@ define('DB_HOST', 'localhost');
 /** Database Table prefix */
 define('DB_TABLE_PREFIX', 'oc_');
 
-define('REL_WEB_URL', '/financial-cars.net/');
+define('REL_WEB_URL', '/');
 
 define('WEB_PATH', 'http://financial-cars.net/');
 
