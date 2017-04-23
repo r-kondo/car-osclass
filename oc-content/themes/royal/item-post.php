@@ -185,9 +185,9 @@
                                             <div class="form-group">
                                                 <label>
                                                     <input class="cekk" type="checkbox" required="">
-                                                    <?php _e("I agree to the", 'royal'); ?>
                                                     <a target="_blank" href="<?php echo osc_get_preference('tos-me', 'royal'); ?>">
-                                                        <?php _e("Terms of Use", 'royal'); ?> </a>
+                                                        <?php _e("Terms of Use", 'royal'); ?> </a>                                                    
+                                                    <?php _e("I agree to the", 'royal'); ?>
                                                 </label>
                                             </div>
                                             <div class="form-group">

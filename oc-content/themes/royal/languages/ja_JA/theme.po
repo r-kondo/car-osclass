@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-04-23 12:30+0900\n"
+"PO-Revision-Date: 2017-04-23 13:24+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.1\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Language-Team: osclass me <cs@osclass.me>\n"
@@ -59,9 +59,6 @@ msgstr "メールアドレス"
 
 msgid "Send"
 msgstr "送信"
-
-msgid "Contact"
-msgstr お問い合わせ"
 
 msgid "Your search must be at least three characters long"
 msgstr "少なくとも 3 文字必要です"
@@ -589,7 +586,7 @@ msgid "Terms of Use"
 msgstr "利用規約"
 
 msgid "I agree to the"
-msgstr "%s に同意する"
+msgstr " に同意する"
 
 msgid "Sorry but I can't find the page you're looking for"
 msgstr "申し訳ありませんが、私は、あなたが探しているページを見つけることができません"
