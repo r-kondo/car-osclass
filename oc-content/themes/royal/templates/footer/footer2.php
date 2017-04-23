@@ -23,7 +23,7 @@
             <p class="copyright">
               <?php echo osc_get_preference('copyright-royal', 'royal'); ?> </p>
             <div class="links">
-              <a style="margin-right:10px;" href="<?php echo osc_contact_url(); ?>"><?php _e("‚¨–â‚¢‡‚í‚¹", 'royal'); ?></a>
+              <a style="margin-right:10px;" href="<?php echo osc_contact_url(); ?>"><?php _e("Contact", 'royal'); ?></a>
               <?php osc_reset_static_pages(); ?>
               <?php while( osc_has_static_pages() ) { ?>
               <a style="margin-right:10px;" href="<?php echo osc_static_page_url(); ?>">
