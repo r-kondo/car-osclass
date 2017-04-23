@@ -72,7 +72,7 @@
                        <?php osc_show_recaptcha('register'); ?>
                        </div>
                         <div class="form-group">
-                        <label><input class="cekk" type="checkbox" required=""><?php _e("I agree to the", 'royal'); ?> <a target="_blank" href="<?php echo osc_get_preference('tos-me', 'royal'); ?>"><?php _e("Terms of Use", 'royal'); ?></a></label>
+                        <label><input class="cekk" type="checkbox" required=""><a target="_blank" href="<?php echo osc_get_preference('tos-me', 'royal'); ?>"><?php _e("Terms of Use", 'royal'); ?></a><?php _e("I agree to the", 'royal'); ?> </label>
                         </div>
                         <button class="btn btn-success btn-lg topper seratus" type="submit"><span class="fa fa-group" aria-hidden="true"></span> <?php _e("Register", 'royal '); ?></button>
                         <div class="jarak"></div>
