@@ -24,4 +24,4 @@ msgid "In order to make premium your ad , it's required to pay a fee."
 msgstr "もし、あなたが望むなら、他の広告より目に触れやすいページに公開されます。"
 
 msgid "The current fee for this category is: %.2f %s"
-msgstr "ここから決済ページにお進みください。費用は、%0f %s"
+msgstr "ここから決済ページにお進みください。費用は、%.0f %s"
