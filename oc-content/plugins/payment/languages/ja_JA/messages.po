@@ -25,3 +25,18 @@ msgstr "もし、あなたが望むなら、他の広告より目に触れやす
 
 msgid "The current fee for this category is: %.2f %s"
 msgstr "Paypalから決済ページにお進みください。費用は、%.0f 円"
+
+msgid "Listings payment status"
+msgstr "未決済の広告リスト"
+
+msgid "Paypal & your listings"
+msgstr "広告一覧"
+
+msgid "Publication date:"
+msgstr "公開日:"
+
+msgid "Price:"
+msgstr "価格:"
+
+msgid "Make premium"
+msgstr "プレミアム広告申請する"
