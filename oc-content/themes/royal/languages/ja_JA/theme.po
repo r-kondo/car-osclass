@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-04-23 13:24+0900\n"
+"PO-Revision-Date: 2017-04-26 00:19+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0\n"
 "Project-Id-Version: OsclassDotMe\n"
 "POT-Creation-Date: \n"
 "Language-Team: osclass me <cs@osclass.me>\n"
@@ -38,6 +38,9 @@ msgstr "広告投稿メールを購読する"
 
 msgid "Subscribe now"
 msgstr "今すぐ登録！"
+
+msgid "Contact"
+msgstr "お問い合せ"
 
 msgid "Contact us"
 msgstr "お問い合わせ"
