@@ -32,11 +32,11 @@ msgstr "未決済の広告リスト"
 msgid "Paypal & your listings"
 msgstr "広告一覧"
 
-msgid "Publication date:"
-msgstr "公開日:"
+msgid "Publication date"
+msgstr "公開日"
 
-msgid "Price:"
-msgstr "価格:"
+msgid "Price"
+msgstr "価格"
 
 msgid "Make premium"
 msgstr "プレミアム広告申請する"
