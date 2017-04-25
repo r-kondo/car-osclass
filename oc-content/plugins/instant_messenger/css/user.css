@@ -27,7 +27,7 @@
 
 
 /* HEADER LINK */
-#im-link {position:relative;}
+#im-link {position:relative;margin-top: 0.8em;}
 #im-link > a {font-weight:bold;}
 #im-link #im-thread-wrap {display:none;position:absolute;top:20px;left:0;width:300px;min-height:100px;}
 #im-link:hover #im-thread-wrap {display:block;}
