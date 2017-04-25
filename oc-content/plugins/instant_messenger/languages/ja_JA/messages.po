@@ -34,3 +34,6 @@ msgstr "このメッセージを開く"
 
 msgid "Message center"
 msgstr "メッセージリスト"
+
+msgid "Start conversation"
+msgstr "ダイレクトメッセージ"
