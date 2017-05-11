@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the OsclassDotMe package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-05-11 23:08+0900\n"
+"PO-Revision-Date: 2017-05-11 23:16+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -556,7 +556,7 @@ msgid "Show default logo in case you didn't upload one previously"
 msgstr "以前 1 つをアップロードしていない場合に、既定のロゴを表示します。"
 
 msgid "Register"
-msgstr "アカウント登録"
+msgstr "送信する"
 
 msgid "registered"
 msgstr "送信する"
