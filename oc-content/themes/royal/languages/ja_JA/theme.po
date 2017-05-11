@@ -558,6 +558,9 @@ msgstr "以前 1 つをアップロードしていない場合に、既定のロ
 msgid "Register"
 msgstr "アカウント登録"
 
+msgid "registered"
+msgstr "送信する"
+
 msgid "View profile"
 msgstr "プロフィール表示"
 

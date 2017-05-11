@@ -21,10 +21,10 @@ msgid "Item's description"
 msgstr "内容"
 
 msgid "In order to make premium your ad , it's required to pay a fee"
-msgstr "もし、あなたが望むなら、他の広告より目に触れやすいページに公開されます。"
+msgstr "もっと目立つ位置にしてみませんか？他の金融車より目立つ広告位置での公開となります。"
 
 msgid "The current fee for this category is: %.2f %s"
-msgstr "Paypalから決済ページにお進みください。費用は、%.0f 円"
+msgstr "成約に繋がる広告位置となっております。広告費は３カ月間で %.0f 円 でございます。支払方法は、Paypalで超簡単です。Paypalボタンをクリックするだけです。また、他の支払方法をご希望の方は、問い合わせページからご連絡をお待ちしております。"
 
 msgid "Listings payment status"
 msgstr "未決済の広告リスト"
